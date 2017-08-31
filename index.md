@@ -1,3 +1,3 @@
-[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+[https://raw.githubusercontent.com/circleworks/circleworks.github.io/master/cw.png|alt=octocat]]
 ## welcome to circleworks
 ### a digital solution
